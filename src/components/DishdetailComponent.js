@@ -245,8 +245,6 @@ const DishDetail = (props) => {
         </div>
       </div>
     );
-  } else {
-    <div></div>;
   }
 };
 
